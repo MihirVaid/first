@@ -1,3 +1,3 @@
 # first
 practice
-author- Mihir
+author- Mihir Vaid (MVIndustries)
